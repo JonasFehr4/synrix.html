@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Der australische Leierschwanz</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div class="jumbotron text-center" id="jumbo">
+  <h1>Die Syrinx</h1>
+  <h3>Das Stimmbildungsorgan von Tier und Mensch</h3>
+</div>
+
+<div class="container" id="div1">
+  <div class="row" id="div1">
+  <div class="col-sm-3">
+    <a href="#funk">Funktion</a><br>
+      <a href="#gr">Grenzen</a><br>
+</div>
+<div class="col-sm-4">
+<h3 id="funk">Funktion</h3>
+<p>Die Syrinx ist hauptveratwortliche Organ zur Lautbildung. Bei
+  den meisten Lebewesen sitzt die Syrinx im unteren Kehlkopf / bei
+  der Gabelung der Luftröhre. Die Syrinx wird von mehreren
+  Muskelsträngen geweitet bzw. verengt um die Tonhöhe zu verändern.
+  Diese sind je nach Spezies verschieden ausgeprägt. Diese Ausprägung
+  kann man an der Menge und Qualität der Muskeln Beurteilen.
+  Beispielsweise haben Singvögel eine sehr gut ausgebildete Sytinx
+  im Gegensatz zum Menschen oder anderen Säugetieren.
+</p>
+</div>
+<div class="col-sm-5" id="div2">
+<h3><img src="https://img.luzernerzeitung.ch/2018/4/14/65becfab-679d-4747-b50d-23e3cae796b2.jpeg?width=654&amp;height=760&amp;fit=crop&amp;quality=75&amp;auto=webp" height="320px"alt="Beispielbild:Vogel-Syrinx"></h3>
+
+</div>
+</div>
+<div class="row" id="div2">
+<div class="col-sm-3">
+</div>
+<div class="col-sm-8">
+<h3 id="gr">Grenzen</h3>
+<p>Zählt man alle Arten zusammen hat die Syrinx keine
+Frequenzwellen-Grenze d.h es ist vom höchsten (Ultraschall
+ca. 15 MegaHz) bis zum niedrigsten Ton (Niederfrepuenzton ca.
+10HZ) alles irgendwo vertreten. schaut man aber auf die einzelnen
+Spezies so haben die meisten nur wenige Oktaven Stimmumfang.
+<br> Zwei Spezies tanzen jedoch aus der Reihe: Papageien und
+Leierschwänze. Sie können fast alle Tonfrequenzen erzeugen und
+auch wahrnehmen.</p>
+</div>
+<div class="col-sm-1">
+</div>
+</div>
+<div class="jumbotron text-center">
+  <p>Impressum:<br>
+    Dies ist ein Informatik-Projekt der 6. Klassen des Borg Egg  |  Jonas Fehr  |<br>
+    Quellen: Wikipedia, N24 Dokumentation zu Leierschwänzen  |  Bilder: Lexikon
+</div>
+</div>
+</body>
+</html>
